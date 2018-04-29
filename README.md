@@ -6,7 +6,7 @@ posibles, se aceptan propuestas de mejora.
   - Introducción [P1-Introduction](https://github.com/dumitrux/PRO1-jutge-FIB/tree/master/P1-Introduction)
   - Bucles [P2-FirstLoops](https://github.com/dumitrux/PRO1-jutge-FIB/tree/master/P2-FirstLoops) [P3-MoreLoops](https://github.com/dumitrux/PRO1-jutge-FIB/tree/master/P3-MoreLoops)
   - Funciones y procedimientos [P4-Functions&Procedures](https://github.com/dumitrux/PRO1-jutge-FIB/tree/master/P4-Functions%26Procedures)
-  - Consolidación1 [Consolidation1](https://github.com/dumitrux/PRO1-jutge-FIB/tree/master/Consolidation1)
+  - Consolidación 1 [Consolidation1](https://github.com/dumitrux/PRO1-jutge-FIB/tree/master/Consolidation1)
   ----------------------------------------------------------------------------------------------------
   - Recursividad [P5-Recursion](https://github.com/dumitrux/PRO1-jutge-FIB/tree/master/P5-Recursion)
   - Secuencias [P6-Sequences](https://github.com/dumitrux/PRO1-jutge-FIB/tree/master/P6-Sequences)
